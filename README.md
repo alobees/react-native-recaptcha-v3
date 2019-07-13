@@ -1,4 +1,4 @@
-# react-native-recaptcha-v3
+# react-native-google-recaptcha-v3
 
 A simple minimal implementation of google recaptcha v3 in react-native
 
@@ -8,13 +8,13 @@ A simple minimal implementation of google recaptcha v3 in react-native
 yarn:
 
 ```
-yarn add react-native-recaptcha-v3
+yarn add react-native-google-recaptcha-v3
 ```
 
 npm:
 
 ```
-npm i react-native-recaptcha-v3
+npm i react-native-google-recaptcha-v3
 ```
 
 install react-native-webview:
@@ -24,7 +24,7 @@ install react-native-webview:
 ## Usage
 
 ```
-import ReactNativeRecaptchaV3 from 'react-native-recaptcha-v3';
+import ReactNativeRecaptchaV3 from 'react-native-google-recaptcha-v3';
 ```
 
 ```
