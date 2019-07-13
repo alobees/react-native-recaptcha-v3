@@ -18,9 +18,8 @@ npm i react-native-recaptcha-v3
 ```
 
 install react-native-webview:
-```
+
 [react-native-webview](https://github.com/react-native-community/react-native-webview/blob/master/docs/Getting-Started.md)
-```
 
 ## Usage
 
