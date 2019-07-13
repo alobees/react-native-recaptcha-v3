@@ -1,0 +1,42 @@
+{
+  "name": "rnrecaptchav3",
+  "version": "0.0.1",
+  "main": "recaptcha.js",
+  "description": "Minimal implementation of Google Recaptcha V3 in React Native Webview",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "recaptcha",
+    "recaptchav3",
+    "google recaptcha"
+  ],
+  "author": "Adrian Warkocz",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "10.0.2",
+    "eslint-config-airbnb": "17.1.1",
+    "eslint-plugin-import": "2.18.0",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.14.2",
+    "react": "16.8.6",
+    "react-native": "0.60.0",
+    "react-native-webview": "5.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.4",
+    "@babel/runtime": "7.5.4",
+    "@react-native-community/eslint-config": "0.0.5",
+    "eslint": "^6.0.1",
+    "metro-react-native-babel-preset": "0.55.0"
+  }
+}
