@@ -32,8 +32,8 @@
     "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.14.2",
-    "react": "16.8.6",
-    "react-native": "0.60.0",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
     "react-native-webview": "5.12.1"
   },
   "devDependencies": {
