@@ -25,7 +25,7 @@ const recaptchaHtml = `<!DOCTYPE html>
 
       grecaptcha.ready(function () {
         grecaptcha.execute(clientId, {
-          action: 'verify'
+          action: '[ACTION_NAME]'
         })
           .then(function (token) {
             window.ReactNativeWebView.postMessage(token, '*')
