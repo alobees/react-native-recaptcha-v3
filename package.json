@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-recaptcha-v3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "recaptcha.js",
   "description": "Minimal implementation of Google Recaptcha V3 in React Native Webview",
   "scripts": {

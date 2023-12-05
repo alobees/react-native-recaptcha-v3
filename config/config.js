@@ -28,7 +28,7 @@ const recaptchaHtml = `<!DOCTYPE html>
           action: '[ACTION_NAME]'
         })
           .then(function (token) {
-            window.ReactNativeWebView.postMessage(token, '*')
+            window.ReactNativeWebView.postMessage(token)
           });
       });
     }
